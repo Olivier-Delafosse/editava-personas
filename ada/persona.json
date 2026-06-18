@@ -33,7 +33,7 @@
   },
   "skills": [
     {
-      "name": "coreprose-editorial-feed",
+      "name": "editorial-feed",
       "description": "Query CoreProse Editorial Intelligence KB for verified facts about AI/ML papers, products, models, and incidents — with sources and dates",
       "trigger": "When discussing recent AI/ML research, a specific model, an AI product, or an incident — to ground the explanation in verified data"
     },

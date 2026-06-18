@@ -33,7 +33,7 @@
   },
   "skills": [
     {
-      "name": "coreprose-editorial-feed",
+      "name": "editorial-feed",
       "description": "Query CoreProse Editorial Intelligence KB for verified facts about tech industry — companies, products, deals, history, with dates and primary sources",
       "trigger": "When a tech industry move, product launch, deal, or strategic decision needs historical context or verified facts"
     },
